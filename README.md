@@ -2,4 +2,4 @@
 
 TypeScript好き
 
-<a href="https://app.daily.dev/kiratanaka"><img src="https://api.daily.dev/devcards/v2/GN8OKGWhYuC3glLePs5z8.png?type=wide&r=4qn" width="652" alt="田中輝良's Dev Card"/></a>
+<a href="https://app.daily.dev/aktsm0ysn0p"><img src="https://github.com/kira-0521/kira-0521/blob/main/devcard.png" width="200" alt="aika's Dev Card"/></a>
